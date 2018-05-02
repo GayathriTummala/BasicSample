@@ -1,0 +1,4 @@
+#Mon Apr 30 16:57:45 IST 2018
+base.0=C\:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
