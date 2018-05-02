@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

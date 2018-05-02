@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed May 02 16:26:31 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\new_wrkspace\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
